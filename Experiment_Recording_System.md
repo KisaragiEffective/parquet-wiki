@@ -18,4 +18,4 @@
     * 各ビットブロックは8px x 8px と推定される
     * パディングブロックが特徴的
 
-[^2]: https://x.com/patsupyon/status/2114246260509245504/video/1
+[^2]: [tweet:2114246260509245504:video:1](https://twitter.com/_/status/2114246260509245504/video/1)
